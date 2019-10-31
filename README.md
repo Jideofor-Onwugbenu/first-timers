@@ -32,6 +32,10 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/NoelKM)
   [![github-alt][github-img]](https://github.com/kim-codes)
 
+### Jideofor O.
+- I am a professional
+- I work at a bank
+
 ### Dan E.
 - I'm a student learning C#
 - I work and go to school.
